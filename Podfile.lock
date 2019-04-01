@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Bolts-Swift (1.4.0)
+  - Gloss (2.1.0)
+  - PureLayout (3.1.4)
+  - R.swift (5.0.3):
+    - R.swift.Library (~> 5.0.0)
+  - R.swift.Library (5.0.0)
+  - RxAtomic (4.4.2)
+  - RxSwift (4.4.2):
+    - RxAtomic (>= 4.4.2, ~> 4.4)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SwiftLint (0.31.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.1)
+  - Bolts-Swift (= 1.4.0)
+  - Gloss (= 2.1.0)
+  - PureLayout (= 3.1.4)
+  - R.swift (= 5.0.3)
+  - RxSwift (= 4.4.2)
+  - SDWebImage (= 4.4.6)
+  - SwiftLint (= 0.31.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Bolts-Swift
+    - Gloss
+    - PureLayout
+    - R.swift
+    - R.swift.Library
+    - RxAtomic
+    - RxSwift
+    - SDWebImage
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Bolts-Swift: 650d72e8017721b1a6bbe43d542c4578f8e5ba6f
+  Gloss: 13ab6b4b0ff4cb2448466edc957479b1bccea8ba
+  PureLayout: f08c01b8dec00bb14a1fefa3de4c7d9c265df85e
+  R.swift: f5a87643b91ea569d23d6afb3eee9c743edde239
+  R.swift.Library: 0bf390e729bc10bb2c9e4fb78bd043164a7be4ff
+  RxAtomic: d00e97c10db88c6f08540e0bf2752fc5a2404167
+  RxSwift: 74c29b693c8e42b0f64400e8b06564575742d649
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SwiftLint: 7a0227733d786395817373b2d0ca799fd0093ff3
+
+PODFILE CHECKSUM: c5560eafb43bd3dd293c2c99dce4bb869e648b3d
+
+COCOAPODS: 1.6.1
