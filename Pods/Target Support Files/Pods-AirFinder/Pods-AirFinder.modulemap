@@ -1,6 +1,0 @@
-framework module Pods_AirFinder {
-  umbrella header "Pods-AirFinder-umbrella.h"
-
-  export *
-  module * { export * }
-}
